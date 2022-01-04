@@ -1,2 +1,2 @@
 # Curso-php
-Exercicio de PHP
+Atividades PHP
